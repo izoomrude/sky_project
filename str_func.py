@@ -5,6 +5,8 @@ def str_func():
     new_str = user_str.upper()
     return new_str
 
+#больше никаих багов :)
+
 
 def first_letter_capital():
     """ Каждая первая буква в слове заглавная """
